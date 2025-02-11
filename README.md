@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohini-hash
+- 👋 Hi, I’m Rohini
 
 🚀 MERN Stack Developer | AI/ML Enthusiast | Python Learner  
 
